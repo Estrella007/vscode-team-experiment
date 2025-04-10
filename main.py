@@ -7,4 +7,4 @@ def goodbye(name):
     print(f"Goodbye, {name}!")
 greet("GitHub")
 goodbye("GitHub")
-greet("GitHub and VSCode, Everyone")
+greet("Everyone")
