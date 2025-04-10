@@ -8,3 +8,4 @@ def goodbye(name):
 greet("GitHub")
 goodbye("GitHub")
 greet("Everyone")
+greet("GitHub and VSCode, Everyone")
